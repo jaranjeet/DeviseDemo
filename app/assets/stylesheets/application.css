@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
-@import "boostrap-sprockts";
+@import "boostrap-sprockets";
 @import "bootstrap";
 @import "bootstrap/theme";
 
