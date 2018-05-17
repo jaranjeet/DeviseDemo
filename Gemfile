@@ -12,7 +12,6 @@ end
 group :production do
   gem 'pg'
 end
-gem 'delayed_job_active_record'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 gem 'devise'
