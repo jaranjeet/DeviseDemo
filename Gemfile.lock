@@ -217,7 +217,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
-  bootstrap-sass (= 3.2.0.2)
+  bootstrap-sass
   byebug
   capybara (>= 2.15, < 4.0)
   chromedriver-helper
@@ -244,4 +244,4 @@ RUBY VERSION
    ruby 2.3.3p222
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
